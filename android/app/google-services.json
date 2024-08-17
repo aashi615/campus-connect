@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468511605390",
+    "project_id": "campusconnect-1503126",
+    "storage_bucket": "campusconnect-1503126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468511605390:android:a1c6d4056008fdfc377fdf",
+        "android_client_info": {
+          "package_name": "com.example.campus_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSLmeoTm0yzeaQ_Z5DTglmIpISOA05PPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
