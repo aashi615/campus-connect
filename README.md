@@ -80,7 +80,7 @@ APK: **https://drive.google.com/file/d/1-JFAR3kk9PRfEyvtZeo-sGEFrlLk1P0f/view?us
 | Edit | Profile | App Drawer |
 
 <!-- Row 3 -->
-| <img src="https://github.com/user-attachments/assets/df424378-fe9e-42bd-9077-910526a6ca4c" width="220"/> | <img src="https://github.com/user-attachments/assets/0824875f-dc5d-4a9d-96a2-818da6323ec3" width="220"/> | <img src="https://github.com/user-attachments/assets/86f02eb3-7be1-42c0-addf-56a332ca6e58" width="220"/> |
+| <img src="https://github.com/user-attachments/assets/6d433afa-db8e-4155-a2e9-4d7851ebf46d" width="220"/> | <img src="https://github.com/user-attachments/assets/0824875f-dc5d-4a9d-96a2-818da6323ec3" width="220"/> | <img src="https://github.com/user-attachments/assets/86f02eb3-7be1-42c0-addf-56a332ca6e58" width="220"/> |
 |:---:|:---:|:---:|
 | Project Buddy | Add | PDetails |
 
