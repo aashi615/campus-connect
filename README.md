@@ -73,8 +73,6 @@ APK: **https://drive.google.com/file/d/1-JFAR3kk9PRfEyvtZeo-sGEFrlLk1P0f/view?us
 | <img src="https://github.com/user-attachments/assets/88257402-cc46-48f8-a20a-dbc91a997761" width="220"/> | <img src="https://github.com/user-attachments/assets/c6aed3b9-f348-4920-bc53-e0f794b79db9" width="220"/> | <img src="https://github.com/user-attachments/assets/50c59e64-ec56-48d0-8801-72dd2f7dc35b" width="220"/> |
 |:---:|:---:|:---:|
 | Home | Student Corner | Campus Contacts |
-![WhatsApp Image 2025-08-23 at 1 00 46 AM](https://github.com/user-attachments/assets/22aedf59-12ff-4487-bb13-9d584625e11d)
-
 
 <!-- Row 2 -->
 | <img src=""https://github.com/user-attachments/assets/22aedf59-12ff-4487-bb13-9d584625e11d"" width="220"/> | <img src="https://github.com/user-attachments/assets/bc896ca0-463d-4473-a9ca-5a79ac7cd136" width="220"/> | <img src="https://github.com/user-attachments/assets/8c5f1ec9-69cb-4f18-a5d9-61c8ea50b14c" width="220"/> |
