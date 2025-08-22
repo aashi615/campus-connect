@@ -74,25 +74,26 @@ APK: **https://drive.google.com/file/d/1-JFAR3kk9PRfEyvtZeo-sGEFrlLk1P0f/view?us
 |:---:|:---:|:---:|
 | Home | Student Corner | Campus Contacts |
 
-<!-- Row 2 -->
-| <img src=""https://github.com/user-attachments/assets/6d433afa-db8e-4155-a2e9-4d7851ebf46d"" width="220"/> | <img src="https://github.com/user-attachments/assets/bc896ca0-463d-4473-a9ca-5a79ac7cd136" width="220"/> | <img src="https://github.com/user-attachments/assets/8c5f1ec9-69cb-4f18-a5d9-61c8ea50b14c" width="220"/> |
+<!-- Row 3 -->
+| <img src="https://github.com/user-attachments/assets/6d433afa-db8e-4155-a2e9-4d7851ebf46d" width="220"/> | <img src="https://github.com/user-attachments/assets/bc896ca0-463d-4473-a9ca-5a79ac7cd136" width="220"/> | <img src="https://github.com/user-attachments/assets/8c5f1ec9-69cb-4f18-a5d9-61c8ea50b14c" width="220"/> |
 |:---:|:---:|:---:|
 | Edit | Profile | App Drawer |
 
-<!-- Row 3 -->
-| <img src="https://github.com/user-attachments/assets/6d433afa-db8e-4155-a2e9-4d7851ebf46d" width="220"/> | <img src="https://github.com/user-attachments/assets/0824875f-dc5d-4a9d-96a2-818da6323ec3" width="220"/> | <img src="https://github.com/user-attachments/assets/86f02eb3-7be1-42c0-addf-56a332ca6e58" width="220"/> |
+<!-- Row 4 -->
+| <img src="https://github.com/user-attachments/assets/df424378-fe9e-42bd-9077-910526a6ca4c" width="220"/> | <img src="https://github.com/user-attachments/assets/0824875f-dc5d-4a9d-96a2-818da6323ec3" width="220"/> | <img src="https://github.com/user-attachments/assets/86f02eb3-7be1-42c0-addf-56a332ca6e58" width="220"/> |
 |:---:|:---:|:---:|
 | Project Buddy | Add | PDetails |
 
-<!-- Row 4 -->
+<!-- Row 5 -->
 | <img src="https://github.com/user-attachments/assets/0b1d31ca-f017-4408-ae0f-7bd8ab8e8c47" width="220"/> | <img src="https://github.com/user-attachments/assets/80311f71-35fd-4146-a3b0-f378cbfabb28" width="220"/> | <img src="https://github.com/user-attachments/assets/be29a72e-77ac-49c8-b454-b962a17c01c7" width="220"/> |
 |:---:|:---:|:---:|
-| chat | MarketPlace | PDeatils |
+| Chat | Marketplace | PDetails |
 
-<!-- Row 5 -->
+<!-- Row 6 -->
 | <img src="https://github.com/user-attachments/assets/08044258-4b1e-4249-b8d8-6a3f546c2c5c" width="220"/> | <img src="https://github.com/user-attachments/assets/063e3a3e-8d5b-4e46-995f-48633adc1d50" width="220"/> | <img src="https://github.com/user-attachments/assets/0b1d31ca-f017-4408-ae0f-7bd8ab8e8c47" width="220"/> |
 |:---:|:---:|:---:|
-| myads | P details | Chat |
+| My Ads | PDetails | Chat |
+
 
 ---
 
